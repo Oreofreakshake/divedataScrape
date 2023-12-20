@@ -28,6 +28,6 @@ for i in range(len(data["result"]["elements"])):
         print("\n")
     
     
-
+# total number of locations
 print(len(data["result"]["elements"]))
 

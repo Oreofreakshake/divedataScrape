@@ -1,0 +1,420 @@
+Vaggiri, 3.5414, 73.2640
+Kunaavashi Kandu, 3.6383, 73.3592
+Fulidhoo Caves, 3.6831, 73.4177
+Coral Garden, 3.6621, 73.4200
+rani kan, 3.8106, 73.3821
+Rani Corner, 3.8220, 73.3737
+Rihivelhi Caves, 3.8143, 73.3825
+Mahibadhoo Rock (Manta Point), 3.7167, 72.9705
+Rihiveli Wreck, 3.8206, 73.3929
+Vilamendhoo Thila, 3.6333, 72.9672
+Farukolhu Kandu, 3.6818, 73.4435
+Lily manta point, 3.6805, 72.9591
+Lohi Kandu Thila, 3.8644, 73.3618
+Fihalhohi Beru Thila, 3.8684, 73.3612
+Lhohi Faru Thila, 3.8741, 73.3586
+adam  faru, 3.8670, 73.3692
+Fihalohi Kandu, 3.8765, 73.3608
+alimas faru, 3.8821, 73.3558
+Rihiveli Bay, 3.8200, 73.4164
+ihi reef, 3.8874, 73.3542
+Admiral 1, 3.8967, 73.3519
+Ram Faru, 3.8893, 73.3648
+Aquarium, 3.8953, 73.3622
+Ran Faru Tulu, 3.8900, 73.3736
+Macaro Fana Thila, 3.8884, 73.3766
+Fana Thila, 3.8835, 73.3825
+Rannalhi House Reef, 3.9025, 73.3597
+Rannalhi  Jetty, 3.9041, 73.3574
+Admiral 3, 3.9078, 73.3530
+jumako thila, 3.8995, 73.3664
+Rannalhi Caves, 3.9120, 73.3506
+Anna&#039;s Giri, 3.8963, 73.3796
+Five Rocks, 3.5685, 72.9417
+Rannalhi Kuda Giri, 3.9115, 73.3692
+Vale Giri, 3.9091, 73.3728
+Dongmas Giri, 3.9070, 73.3801
+Appa Thila, 3.9159, 73.3712
+Point Thila, 3.9045, 73.4018
+Kani Corner, 3.9405, 73.3521
+Olhuveli House Reef, 3.8501, 73.4524
+Kuda Rah Thila, 3.5576, 72.9214
+Magu 2, 3.9457, 73.3526
+Vaagali Faru South, 3.9479, 73.3525
+Vaagali Outside, 3.9489, 73.3516
+Miyaru Kandu, 3.5979, 73.5035
+Vaagali Thila, 3.9382, 73.3739
+Vaagali Kandu, 3.9505, 73.3540
+Vaagali Caves, 3.9507, 73.3550
+Dhigurah Beyru, 3.5255, 72.9267
+Kalhu Thila, 3.9122, 73.4162
+Ran Thila, 3.9110, 73.4248
+Kudimaa (Wreck), 3.5951, 72.8844
+En Madi Giri, 3.8978, 73.4517
+Guraidhoo Outside, 3.8794, 73.4681
+Mendhu Ingili, 3.8907, 73.4609
+Banana Reef / Manta Point, 3.8963, 73.4563
+Lara Giri, 3.9048, 73.4515
+Guraidhoo Corner, 3.8895, 73.4691
+Middle Point, 3.8925, 73.4706
+Lhosfushi Kuda Kandu, 3.8938, 73.4709
+lhosfushi corner , 3.8948, 73.4717
+Medhu Faru, 3.8982, 73.4739
+Napoleon Reef, 3.8991, 73.4747
+Kandooma Caves, 3.9054, 73.4766
+Kandoo Kan, 3.9039, 73.4782
+Kandooma Thila, 3.9067, 73.4799
+Cocoa Corner, 3.9084, 73.4819
+Cocoa Corner, 3.9157, 73.4885
+Sexy Reef / Hoara Huraa, 3.9551, 73.4629
+Angaga Thila, 3.6367, 72.8183
+Fish Head, 3.9362, 72.9130
+Yaara Giri, 3.9719, 73.4634
+Maafushi Lagoon, 3.9439, 73.4949
+Maafushi Caves, 3.9582, 73.4906
+Kuda Giri Wreck, 3.9736, 73.4907
+Maamigili Beyru, 3.4673, 72.8420
+lunbo giri, 3.9760, 73.4941
+Dhigu Faru Kuda Thila, 3.6540, 72.7810
+Kuda Giri Wreck, 4.0045, 73.4822
+Gulhi Dhigu Thila, 3.9817, 73.5079
+Masthila, 4.0723, 73.3788
+Guhli Corner, 3.9888, 73.5143
+Aiyabe Thila (Hollywood), 3.7282, 72.7604
+Bathala Maga Khan Thila, 4.0597, 72.9562
+Bolifushi Wreck, 4.0879, 73.4033
+Gulhi Outside, 3.9990, 73.5286
+Kashaavaru Kandu (Golden Wall), 3.4464, 73.6032
+Bulaloghi Faru, 3.7422, 72.7259
+Magey Modu Thila, 3.5503, 72.7357
+Hohola Thila, 3.9617, 72.8081
+Rangali Madivaru, 3.5855, 72.7165
+Turtle Reef, 4.0517, 73.5436
+Velassaru Cave, 4.1264, 73.4379
+Embudu House Reef, 4.0848, 73.5130
+Stingray City, 4.0761, 73.5255
+Alikoe Giri, 4.0990, 73.5128
+Fesdhoo Wreck & Thila, 3.9995, 72.7852
+Embudu Express, 4.0868, 73.5341
+Embudu Channel, 4.0860, 73.5367
+Fotteyo Kandu, 3.4884, 73.6994
+Moofushi Kandu, 3.8846, 72.7106
+Bojaha Madi (Moofushi Rock), 3.8770, 72.7050
+Maaya Thila, North Ari Atoll, 4.0911, 72.8621
+Rimas Thila, 3.9096, 72.7159
+Emboodhoo Canyon, 4.1261, 73.5013
+Himandhoo Thila, 3.9176, 72.7185
+Giraavaru Caves, 4.1847, 73.4101
+Moon Valley, 4.2025, 73.3904
+Dragon’s Mouth, 4.1742, 73.4613
+Kuda Haa, 4.2178, 73.4083
+Hafsa Thila, 4.1288, 72.8381
+Laguna Matata, 4.2290, 73.3839
+Maalhos Thila, 4.0025, 72.7185
+Maldives Victory (Wreck), 4.1783, 73.5259
+Underwater Habitat by Sub Oceanic at Hilton Maldives, 4.2518, 73.3664
+Amin Faru, 4.2548, 73.3561
+Amingiri Sandbank Reef, 4.2493, 73.3773
+Airport  Beyru, 4.1765, 73.5333
+Anemone Reef, 4.2501, 73.3849
+Neru Faru - Hilton Maldives Amingiri Housereef, 4.2539, 73.3768
+Hulangu Kandu, 4.2688, 73.3517
+Rasdhoo Beyru, 4.2594, 72.9936
+Rasdhoo Channel, 4.2584, 72.9883
+Fan Reef, 4.2572, 72.9851
+Thin Thila, 4.2751, 73.3648
+Madivaru Channel, 4.2626, 72.9981
+Hammerhead Shark Point, 4.2640, 73.0016
+Ory Faru, 4.2568, 72.9808
+Mas Giri, 4.2714, 73.3807
+Madivaru Corner, 4.2641, 73.0006
+Rasdhoo Try Dive Area, 4.2622, 72.9902
+Kudobe Thila, 4.2778, 73.3646
+Gaa Huraa Kandu / Van Huraveli Kandu, 3.1451, 73.5255
+Three Palms, 4.2572, 72.9753
+Rasdhoo Ferry Terminal, 4.2658, 72.9911
+Kuramathi Queen (Wreck), 4.2625, 72.9798
+Bodu Gaa, 4.2602, 72.9673
+Black Coral, 4.2682, 73.4242
+Foah Malé, 4.2205, 73.5312
+Madi Miyaru Kanmathi, 4.2212, 73.5308
+Turtle Reef, 4.2845, 73.0125
+Tigershark Point, 4.2239, 73.5326
+Baros Thila, 4.2768, 73.4264
+Neygey Thila, 4.2964, 73.3692
+Baros Faru , 4.2856, 73.4151
+Kuda Madi Giri, 4.3023, 73.3670
+Kuramathi Caves, 4.2738, 72.9410
+Banana Reef - Fee Gaa Giri, 4.2392, 73.5322
+Shewz Thila, 4.3125, 73.3678
+Lao Fu Thila, 4.3108, 73.3856
+Iru Thila, 4.3172, 73.3703
+Bandos Rock, 4.2721, 73.4928
+Jemima Giri, 4.3193, 73.3661
+Toti Thila, 4.3221, 73.3724
+Sara Thila, 4.3234, 73.3698
+Fish Tank, 4.2563, 73.5401
+Furana North, 4.2532, 73.5489
+Madi Gaa, 4.3209, 73.0055
+Rasdhoo North Channel, 4.3247, 73.0069
+Nassimo Thila, 4.2783, 73.5276
+Rasdhoo Beyru Kandu, 4.3342, 72.9995
+Okobe Thila, 4.2946, 73.5125
+Rasdhoo  Miyaru Faru, 4.3344, 72.9841
+Lankan Caves, 4.2800, 73.5506
+Thinga Thila, 4.3531, 73.3752
+Lankan Beyru, 4.2790, 73.5561
+Lankan Faru, 4.2815, 73.5595
+meedhoo out, 2.9991, 73.0093
+Sunlight Thila, 4.3005, 73.5334
+Rasgefaanu Thila (Kaiser Thila), 4.3595, 73.3867
+Bodu Thila, 4.3594, 73.4211
+Rayvilla (Wreck), 2.9854, 73.4111
+Kandu Thila, 4.3846, 73.3507
+Rasfari Corner, 4.3910, 73.3442
+Mas Thila, 4.3879, 73.3667
+Himmafushi Faru, 4.3037, 73.5773
+Himmafushi Corner, 4.3049, 73.5816
+Karens Block, 4.3114, 73.5769
+HP Reef / Rainbow Reef, 4.3142, 73.5791
+Shark Point, 4.4027, 73.3477
+Nassero Thila, 4.3962, 73.4004
+Nakatcha Thila, 4.4107, 73.3754
+Rasfari Beyru, 4.4168, 73.3518
+Huraa Etere, 4.3299, 73.5941
+Bodu Hithi / Kuda Thila, 4.4245, 73.3851
+Bodu Hithi Manta Point, 4.4370, 73.3630
+Kani Thila, 4.3504, 73.5907
+Faru Kani, 4.3394, 73.6130
+Kani Inside, 4.3491, 73.6027
+Kani Corner, 4.3424, 73.6155
+Aquarium / Lhohifushi Corner, 4.3452, 73.6191
+Kuda Thila, 4.4464, 73.3703
+Thoddoo South Corner, 4.4288, 72.9645
+Hudhuranfushi House Reef , 4.3497, 73.6144
+Thoddoo Turtle / Vella Ulhey Than, 4.4280, 72.9594
+Lhohifushi Kandu, 4.3526, 73.6113
+Lohis , 4.3471, 73.6205
+Boduhiti Thila, 4.4507, 73.3612
+The Big Cave, 2.9540, 73.5199
+Pretty In Pink, 2.9589, 73.5332
+Tri Mix, 4.3558, 73.6127
+1000 Rocks, 2.9498, 73.5228
+Chapati Tilas, 2.9525, 73.5300
+One Palm Finolhu, 4.3561, 73.6286
+Wave Giri, 2.9473, 73.5377
+Half and Half, 2.9615, 73.5683
+Thoddoo Rangabeelu, 4.4449, 72.9629
+Simply The Best, 2.9454, 73.5465
+Old Virgin, 4.3699, 73.6245
+The Scorpion, 2.9403, 73.5420
+Veyvah Tila, 2.9544, 73.5756
+Bodu Securade, 2.9418, 73.5511
+Van Gogh, 2.9381, 73.5517
+Chapati, 2.9355, 73.5478
+5 Palms, Thulusdhoo, 4.3645, 73.6473
+Colosseum , 4.3686, 73.6548
+Streets of Mulah, 2.9459, 73.5918
+Magu, 4.3790, 73.6440
+Easy Express, 2.9270, 73.5594
+Viligili Corner, 4.3713, 73.6612
+Thulusdoo Beyru, 4.3756, 73.6553
+Deep Corner, 2.9368, 73.5876
+Picasso, 2.9097, 73.5319
+Sharks Tongue, 2.9406, 73.6019
+Grouper Cave, 2.8953, 73.5115
+Mantas and More, 2.9269, 73.5899
+Medhufushi Thila, 2.9078, 73.5547
+Boahura Express, 2.9222, 73.5951
+Hakura Giri, 2.8864, 73.5306
+Triple Rock, 2.8904, 73.5416
+Turtle Bay, 2.9005, 73.5687
+Maalhaveli Outside, 2.9041, 73.5853
+Medhu Outside, 2.8860, 73.5823
+Kuda Faru, 4.5695, 73.3792
+Asdhoo Wreck, 4.4582, 73.6800
+West Rock (Wreck), 4.4624, 73.6763
+Kurali Corner, 2.7713, 73.3698
+Kuda Badhi Caves, 4.4723, 73.6907
+Kurali Kandu, 2.7586, 73.3794
+Kassanfaru Corner, 4.4970, 73.6814
+Kassanfaru Beyru, 4.5028, 73.6748
+Trixy Caves, 4.5806, 73.5924
+Muthafushi Thila, 5.0608, 72.8885
+Maalhos Manta Point, 5.1325, 73.1133
+Maalhos House Reef, 5.1376, 73.1061
+Dharavandhoo Thila, 5.1585, 73.1171
+Hanifaru Bay, 5.1732, 73.1443
+Anga Faru, 5.1759, 73.0981
+Maavaru Thila, 5.1544, 72.8614
+Amilla Fushi, 5.2342, 73.1117
+Fares Thila / Canyons, 5.2226, 72.8679
+ALIGHAA BEYRU EDGE, 5.2420, 73.5140
+ALIGHAA BEYRU FARU, 5.2436, 73.5350
+Miyaru Gaa, 5.2568, 73.5376
+MADUVVARI DHEKUNU KANN, 5.2766, 73.4988
+MADUVVARI IRUMATHI KANN, 5.2880, 73.4958
+HALAAKU THARI THILA, 5.2746, 73.5627
+GAA VEHTUNU THILA, 5.2748, 73.5638
+MADUVVARI HAA, 5.2812, 73.5370
+THIN SEHLI THILA, 5.2769, 73.5608
+NEYFAI HAEH THILA, 5.2781, 73.5587
+LE MERIDIEN HOUSEREEF, 5.2779, 73.5871
+VARIHURAA KANN, 5.2994, 73.4891
+Ahga Giri, 5.2826, 73.5806
+OLHUVELI HULANGU FARU, 5.2824, 73.5979
+OLHUVELI MEDHU FARU, 5.2821, 73.6001
+TALABO THILA, 5.3006, 73.5337
+Vadinoloo Kandu, 2.0270, 73.3606
+CANDICE THILA, 5.2948, 73.5765
+LHOHI DEKUNU KANN, 5.3168, 73.4728
+Maarikilu Caves, 5.3276, 72.9491
+Maabaidhoo Kandu, 2.0407, 73.5370
+OOKOLHU FARU, 5.2948, 73.6221
+BOAVA THILA, 5.3053, 73.6081
+EGAARA THILA, 5.3157, 73.5817
+Muniyafushi Kandu, 1.9985, 73.3216
+Digufaru Thila, 5.3657, 73.0232
+SALLEYDHOO THILA, 5.3457, 73.5522
+Maamunagaa Giri, 5.3627, 72.9300
+Villingilli Thila, 5.3753, 72.9561
+Fenfushi Giri, 5.3798, 72.9118
+HUDHU THILA, 5.3552, 73.6196
+Vadhoo Thila, 5.4008, 72.9841
+Beriyan Dhekunu Thila, 5.4133, 73.0139
+Beriyan Kuda Thila, 5.4166, 73.0063
+Kudathulhaadhoo Thila, 5.4013, 72.8974
+Beriyan Bodu Thila, 5.4181, 73.0058
+Deep Boulder Thila, 1.9296, 73.3584
+Kudathulhaadhoo Caves, 5.4092, 72.8970
+Muskuli Thila, 5.4128, 72.8994
+Maava Kandu, 1.9135, 73.2439
+Maafaru Thila, 5.4256, 72.8948
+IHI THILA, 5.4314, 73.4830
+Kinolhas Kandu, 5.4487, 73.0193
+Aarah Kuda Thila, 5.4391, 72.9413
+Kinolhas, 5.4501, 73.0225
+Aarah Bodu Thila, 5.4400, 72.9351
+Aarah Dekunu Thila, 5.4451, 72.9349
+Nagili Thila, 5.4529, 72.9800
+NEMO THILA, 5.4423, 73.4976
+Fainu Corner, 5.4598, 73.0433
+Meedhupparu House Reef, 5.4543, 72.9800
+Aarah Wall, 5.4503, 72.9400
+DHIHFUSHIMAADHOO BEYRU, 5.4167, 73.6474
+Maafaru Caves, 5.4470, 72.8701
+FAADHOO KANDU, 5.4292, 73.6396
+FAADHOO BEYRU, 5.4346, 73.6262
+MEYYAFUSHI KANDU, 5.4395, 73.6163
+MEYYAFUSHI BEYRU, 5.4436, 73.6087
+Rainbow Caves, 5.4571, 72.8581
+Neyo Kanmathi, 5.4914, 73.0407
+Kottefaru Bodu Thila, 5.5033, 73.0368
+Kottefaru Kanmathi, 5.5067, 73.0461
+Kottefaru Thila, 5.5059, 73.0375
+Kottefaru Anemone Thila, 5.5078, 73.0307
+Kottefaru Wall, 5.5120, 73.0473
+Nursery Thila, 1.8367, 73.3171
+Sola Corner, 5.4847, 72.8341
+Fushifaru Thila, 5.4944, 73.5217
+Hedha House Reef, 1.8294, 73.2850
+Soamahaa Thila, 1.8358, 73.3767
+Vakkaru Manta Point, 5.5078, 72.9350
+Boulder Spot, 1.8327, 73.3430
+Vandhoo Thila, 5.5236, 73.0455
+Hurawali Kandu, 5.5221, 73.4295
+Vandhoo (The) Wall, 5.5303, 73.0479
+Koroshigiri Canyon, 5.5091, 72.8711
+Deep Thila, 1.8154, 73.3347
+Labyrinth, 5.5112, 72.8494
+Fish Thila, 1.8083, 73.3313
+Coral Ridge, 1.8047, 73.3304
+Valu Thila, 1.8017, 73.3475
+Turtle Caves, 5.5524, 73.4605
+Miyaru Giri, 5.5931, 72.8489
+Goemmaru, 5.6353, 72.8728
+Thiling Faru, 5.6293, 72.8308
+Koli kuredhdhoo, 5.6415, 72.8920
+Vaffushi reef, 5.6428, 72.8469
+Loma thila, 5.6599, 72.8715
+Gaagandu faru, 5.6571, 72.8461
+Sand Bank Reef (You & Me Resort), 5.6633, 72.8537
+You and Me Giri, 5.6677, 72.8612
+Maafaru, 5.6737, 72.8608
+Dheraha Thila, 5.6827, 72.8812
+You and Me Wall, 5.6885, 72.8556
+Ifuru thila, 5.7197, 73.0203
+Madi gaa, 5.7004, 72.8389
+Uthuru Maafaru North Corner, 5.7006, 72.8374
+Fuggiri Wall, 5.7204, 72.8635
+Kandhoo faru, 5.7287, 72.9177
+Glassfish Cove, 5.7323, 72.9324
+Reethi Thila, 5.7356, 72.8668
+Vavathi Kurolhi / Christmas Tree, 5.8140, 73.2528
+Vaadhoo thila, 5.8366, 72.9992
+Orimas Thila, 5.8471, 73.2526
+Loley Thila, 6.0298, 73.1050
+Van’gaaru, 6.0939, 73.2067
+Naalaahura Thila, 6.1261, 73.0388
+Naalaahura Faru, 6.1280, 73.0354
+Haru Gaa Thila, 6.1603, 73.1213
+Dhaburi Thila, 6.1713, 73.1365
+Miyaru Thila, 6.1795, 73.0989
+Lighthouse Channel, 6.1775, 72.9948
+Medhu Thila, 6.1792, 73.0082
+Naainfaru Dhekunu, 6.1908, 72.9991
+Medhu Faru, 6.1938, 73.0319
+Maroshi Thila, 6.1991, 73.0484
+Naainfaru Irumathi, 6.2011, 73.0071
+Maroshi Irumathi, 6.2159, 73.0592
+Naainfaru Uthuru, 6.2132, 72.9926
+Nattey Thila, 6.2365, 73.0042
+Sirru Thila, 6.2515, 73.0167
+Sirru Coco Miyaru Thila, 6.2544, 73.0250
+Sirru Faru Dhekunu Kang, 6.2676, 73.0005
+Sirru Faru Dhekunu, 6.2787, 73.0118
+Sirru Faru Hulhangu, 6.2818, 72.9886
+Coralarium, 6.2876, 73.0095
+Sirru Faru Irumathi, 6.2885, 73.0139
+Sirru Fen Fushi Hulanghu Faru - Manta Point, 6.2990, 72.9943
+Fahi Faru, 6.3382, 72.9796
+Fahi Thila, 6.3488, 72.9709
+Feydhoo Faru, 6.3639, 73.0434
+Vilingili Kandu, 0.7569, 73.4258
+Hanimaadhoo South, 6.7247, 73.1475
+Heaven and Hell / Theefarido Thila, 6.7266, 73.0446
+Finey Thila, 6.7332, 73.0571
+Barefoot Thila, 6.7476, 73.1109
+Kuni Faru, 6.7585, 73.1817
+Hanimaadhoo Thila, 6.7584, 73.1583
+Hanimaadhoo Faru, 6.7594, 73.1629
+Sirru Thila, 6.7616, 73.1628
+Hanimaadhoo Out, 6.7645, 73.1852
+Hanimaadhoo Corner, 6.7760, 73.1876
+Barefoot House Reef, 6.7761, 73.1740
+Hondaafushi Faru, 6.7761, 73.1172
+Coral Garden, 6.7791, 73.1314
+Baarah Thila, 6.8032, 73.1906
+Baarah Corner, 6.8054, 73.2085
+Baarah Caves, 6.8076, 73.2001
+Baarah Out, 6.8116, 73.2165
+Tweety and Sylvester, 6.8198, 73.2198
+Maafahi Corner, 6.8295, 73.1623
+Muraidhoo Corner, 6.8313, 73.1689
+Hide and Seek, 6.8292, 73.0113
+The Ridge, 6.8357, 73.1616
+Utheemu Reef, 6.8391, 73.1073
+Filladhoo Thila, 6.8433, 73.2235
+Thakandhoo Corner, 6.8392, 72.9960
+Dhonakulhi Kandu, 6.8432, 73.0480
+Alidhoo Caves, 6.8469, 73.1509
+Mulidhoo Aquarium, 6.8421, 73.0125
+Mathifaru Caves, 6.8526, 73.0543
+Golden Wall, 6.8526, 73.0414
+Cathedral, 6.8563, 72.9578
+Filladhoo (Wreck), 6.8676, 73.2309
+Sandbank, 6.8705, 73.0857
+Kondey Kandu, 0.4914, 73.5565
+Naridhoo Wall, 6.8949, 73.1301
+Maarehaa Kandu, 0.4572, 73.5687
+Gemanafushi Blue, 0.4479, 73.5778
